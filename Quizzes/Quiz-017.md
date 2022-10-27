@@ -22,8 +22,8 @@ for i in [["Hello","main"],["Peru","France","Nepal"],["Computer Science","Art"],
 
 Proof:
 ### Fig.1
-Input: (("Hello","main"),("Peru","France","Nepal"),("Computer Science","Art"),("one","two")) | Output: (4.5,5.0,9.5,3.0)
-<img width="1047" alt="Input: (("Hello","main"),("Peru","France","Nepal"),("Computer Science","Art"),("one","two")) | Output: (4.5,5.0,9.5,3.0)" src="https://user-images.githubusercontent.com/112055140/198179901-e84ffe89-527b-4258-a27c-d47d468f373b.png">
+Input: (["Hello","main"],["Peru","France","Nepal"],["Computer Science","Art"],["one","two"]) | Output: ([4.5],[5.0],[9.5],[3.0])
+<img width="1047" alt="Quiz_017" src="https://user-images.githubusercontent.com/112055140/198179901-e84ffe89-527b-4258-a27c-d47d468f373b.png">
 
 ------------------------------------------------------------------------
 
