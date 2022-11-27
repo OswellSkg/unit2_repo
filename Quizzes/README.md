@@ -1,32 +1,16 @@
-## 00.00.0000 Quiz #0
+</div>
 
-#Header Comment: This is the template to upload the quizzes on github.
+<div align="center">
 
-#Follow the instructions such as "[Paste Program]," "[Input Input/Output]," or "[Drag Image]"     [Paste Instruction]
+<h1>Unit 2 Quizzes</h1>
+<h4 font-family:'Courier New', monospace>Oswell T. Sakaguchi</h4>
 
-#Make necessary changes accordingly to each quizzes     [Paste Instruction]
+Collection of Unit 2 Quizzes. <br>
+This repository file includes the code structure of each quizzes completed in class. <br>
+It functions as a quiz repository. <br>
+Ask me anything <a href="https://github.com/ABSphreak/ABSphreak/issues/new"><b>here</b></a><br>
+or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me.
 
-#[Google Slides Link](Paste Link)
+<i>Happy Coding!</i> 😊
 
-
-------------------------------------------------------------------------
-
-Program:
-```.py
-[Paste Program]
-```
-
-------------------------------------------------------------------------
-
-Proof:
-### Fig.1
-Input: [Input Input] | Output: [Input Output]
-[Drag Image]
-
-### Fig.2
-Input: [Input Input] | Output: [Input Output]
-[Drag Image]
-
-------------------------------------------------------------------------
-
-### Flowchart:
+</div>
