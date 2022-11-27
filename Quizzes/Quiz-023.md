@@ -1,6 +1,6 @@
 ## 10.11.22  Quiz#023
 
-Create a program that produces the graph for the function in Quiz #22.
+Create a program that produces the graph for the function in Quiz #22.<br>
 <img width="316" alt="Screen Shot 2022-11-28 at 1 49 34" src="https://user-images.githubusercontent.com/112055140/204148843-a8872f5e-f101-45ac-bc6c-16e38b0a0554.png">
 
 
