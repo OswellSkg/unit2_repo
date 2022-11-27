@@ -1,2 +1,1 @@
-# unit2_repo
-G11 Computer Science SL Course
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=750&color=000000&background=4DB7BB&center=true&multiline=true&width=435&height=60&lines=Unit2_repo;G11+Computer+Science+SL+Course)](https://git.io/typing-svg)
