@@ -1,6 +1,6 @@
 ## 10.25.2022 Quiz #17
 
-# Header Comment: Create a function that produces the average letter length of the input list.
+Create a function that produces the average letter length of the input list.
 
 ------------------------------------------------------------------------
 
@@ -26,5 +26,3 @@ Input: (["Hello","main"],["Peru","France","Nepal"],["Computer Science","Art"],["
 <img width="1047" alt="Quiz_017" src="https://user-images.githubusercontent.com/112055140/198179901-e84ffe89-527b-4258-a27c-d47d468f373b.png">
 
 ------------------------------------------------------------------------
-
-### Flowchart:
