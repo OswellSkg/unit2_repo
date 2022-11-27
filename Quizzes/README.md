@@ -8,8 +8,8 @@
 Collection of Unit 2 Quizzes. <br>
 This repository file includes the code structure of each quizzes completed in class. <br>
 It functions as a quiz repository. <br>
-Ask me anything <a href="https://github.com/ABSphreak/ABSphreak/issues/new"><b>here</b></a><br>
-or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me.
+<a href="https://github.com/OswellSkg/unit2_repo/blob/main/Quizzes/Quiz-017.md"><b>Quiz017</b></a><br>
+<a href="https://github.com/OswellSkg/unit2_repo/blob/main/Quizzes/Quiz-018.md"><b>Quiz018</b></a><br>
 
 <i>Happy Coding!</i> 😊
 
